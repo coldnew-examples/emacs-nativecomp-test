@@ -1,0 +1,3 @@
+[submodule "emacs"]
+	path = emacs
+	url = https://github.com/coldnew-examples/emacs-nativecomp-mirror.git
